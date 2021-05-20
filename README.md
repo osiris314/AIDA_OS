@@ -4,7 +4,7 @@ Python Version: 3.9.2
 *Before using the program:
 1. change username/password inside the login.py file
 
-![name](https://user-images.githubusercontent.com/29146438/118893976-046e0f80-b90c-11eb-9820-8f7de8a8f45b.PNG)
+![12345](https://user-images.githubusercontent.com/29146438/118899618-ce368d00-b917-11eb-9dc0-89669d309c55.PNG)
 
 Usage: python initializing.py
 
