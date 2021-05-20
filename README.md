@@ -1,5 +1,5 @@
 # AIDA_OS
-Python Version: 3.9.2
+Tested on Python Version: 3.9.2
 
 *Before using the program:
 1. change username/password inside the login.py file
